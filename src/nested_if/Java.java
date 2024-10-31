@@ -4,7 +4,7 @@ public class Java {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- int a=10, b=20, c=30;
+ int a=15, b=25, c=35;
 if (a<b)
 {
 	if (c>b)
